@@ -1,3 +1,4 @@
+ console.log("fjoaiwefjewaio");
  var locations = [
       ['<h4>Bondi Beach</h4>', -33.890542, 151.274856],
       ['<h4>Coogee Beach</h4>', -33.923036, 151.259052],
