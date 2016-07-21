@@ -1,13 +1,13 @@
 //radar chart data
 var radarData = {
-	labels : ["Population Density","Income","Business Density", "Safety"],
+	labels : ["Income", "Safety", "Rent"],
 	datasets : [
 		{
 	        fillColor: "rgba(63,169,245,.1)",
             strokeColor: "rgba(63,169,245,1)",
 			pointColor : "rgba(151,187,205,1)",
 			pointStrokeColor : "#fff",
-			data : [28,48,40, 2]
+			data : [28, 14, 43]
 		}
 	]
 }
