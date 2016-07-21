@@ -13,7 +13,7 @@ var radarData = {
 }
 
 
-
+//fuck it all
 //Create Line chart
 // var ctx = document.getElementById("lineChart").getContext("2d");
 // var myNewChart = new Chart(ctx).Line(lineData, lineOptions);
