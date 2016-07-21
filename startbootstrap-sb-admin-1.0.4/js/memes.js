@@ -28,7 +28,7 @@ function setLocations(inpt) {
 var locations = setLocations(json_test);
 console.log("\n");
 console.log(locations);
->>>>>>> gh-pages
+
     // Setup the different icons and shadows
     var iconURLPrefix = 'http://maps.google.com/mapfiles/ms/icons/';
     
