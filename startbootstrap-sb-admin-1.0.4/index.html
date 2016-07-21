@@ -82,6 +82,37 @@
                     </div>
                 </div>
                 <!-- /.row -->
+                                <div class="row">
+                  <form class="form-horizontal" role="form">
+                      <div class="form-group">
+                        <label for="inputType" class="col-md-2 control-label">I want to start a... </label>
+                        <div class="col-md-3">
+                            <input type="text" class="form-control" id="inputType" placeholder="Business" list="business-categories">
+                              <datalist id="business-categories">
+                                <option value="Retail">
+                                <option value="Cafe">
+                                <option value="Restaurant">
+                                <option value="Bar">
+                                <option value="Car Dealership">
+                              </datalist>
+                        </div>
+                        <label for="inputType" class="col-md-1 control-label">in...</label>
+                        <div class="col-md-3">
+                            <input type="text" class="form-control" id="inputType" placeholder="Neighborhood" list="neighborhoods">
+                              <datalist id="neighborhoods">
+                                <option value="Internet Explorer">
+                                <option value="Firefox">   
+                                <option value="Chrome"> 
+                                <option value="Opera">
+                                <option value="Safari">
+                              </datalist>
+                        </div>      
+                        <div class="col-md-3 text-center">
+                          <button id="submit-btn" type="button" class="btn btn-default">Submit</button>
+                        </div>
+                      </div>
+                  </form>   
+                </div>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="panel panel-default">
